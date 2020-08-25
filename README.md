@@ -14,6 +14,9 @@ I'm passionate about blogging, public learning, and bootstrapping.
 
 ## Latest Posts
 
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
+
 - [Build a Landing Page with Chakra UI - Part 1](https://raptis.wtf/blog/build-a-landing-page-with-chakra-ui-part-1/)
 - [Custom hook to connect Google Analytics in React](https://raptis.wtf/blog/custom-hook-to-connect-google-analytics-in-react/)
 - [Best Icon Packs for building beautiful web apps](https://raptis.wtf/blog/best-icon-packs-for-building-beautiful-web-apps/)
