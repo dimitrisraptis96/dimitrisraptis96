@@ -10,7 +10,7 @@ I'm passionate about blogging, public learning, and bootstrapping.
 
 ## 📚 Latest Posts
 
-- [Build a Landing Page with Chakra UI - Part 1](https://raptis.wtf/blog/build-a-landing-page-with-chakra-ui-part-1/) 🔝
-- [Gatsby: Copy code button with confetti effect for MDX blog](https://raptis.wtf/blog/gatsby-mdx-copy-code-button-with-confetti/)
-- [Custom hook to connect Google Analytics in React](https://raptis.wtf/blog/custom-hook-to-connect-google-analytics-in-react/)
-- [Best Icon Packs for building beautiful web apps](https://raptis.wtf/blog/best-icon-packs-for-building-beautiful-web-apps/)
+- [Build a Landing Page with Chakra UI - Part 1](https://www.jimraptis.com/blog/build-a-landing-page-with-chakra-ui-part-1/) 🔝
+- [Gatsby: Copy code button with confetti effect for MDX blog](https://www.jimraptis.com/blog/gatsby-mdx-copy-code-button-with-confetti/)
+- [Custom hook to connect Google Analytics in React](https://www.jimraptis.com/blog/custom-hook-to-connect-google-analytics-in-react/)
+- [Best Icon Packs for building beautiful web apps](https://www.jimraptis.com/blog/best-icon-packs-for-building-beautiful-web-apps/)
